@@ -8,3 +8,5 @@
 projects sources - скрипты, осуществляющие работу с telegram, бд SQLite.
 
 train scripts - пайплайны обучения каждой из моделей
+
+Папка с параметрами обученных моделей по ссылке: https://drive.google.com/drive/folders/1Ad8c_5QVEN27bOiUO38Uat_gDVgAxQJk?usp=sharing
